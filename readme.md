@@ -2,6 +2,7 @@
 
 ![mobile](https://i.hizliresim.com/mf4c4x6.png)
 ![desktop](https://i.hizliresim.com/3ckq7yp.png)
+![rotated](https://i.hizliresim.com/7i4osmu.png)
 
 ## Usage
 
